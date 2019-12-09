@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d781d4c-fc4e-4e00-af56-88703e639ce5" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="da7ce598-a1b8-4bee-9e31-fb31f613bf23" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1Ui20bbpqqleYg6WCXRgqkUr1Ti" />
+  <component name="ProjectId" id="1UkUDeWEr81eLtEVXcsQIFIW80B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,175 +19,148 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="uebung07.aufgabe2" />
-      <recent name="uebung07.aufgabe1" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MS_Desktop\Dropbox\Wirtschaftsinfo\Objektorientierte_Programmierung\Übung\Uebung07\src\uebung07\aufgabe1" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.NumberTest">
-    <configuration name="NumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Uebung07" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberTest" />
+  <component name="RunManager" selected="JUnit.RomanNumberTest">
+    <configuration name="RomanNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgabe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aufgabe2" />
+      <option name="MAIN_CLASS_NAME" value="aufgabe2.RomanNumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTest.divide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Uebung07" />
+    <configuration name="StringOpsTest.isSorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="aufgabe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberTest" />
-      <option name="METHOD_NAME" value="divide" />
+      <option name="PACKAGE_NAME" value="aufgabe1" />
+      <option name="MAIN_CLASS_NAME" value="aufgabe1.StringOpsTest" />
+      <option name="METHOD_NAME" value="isSorted" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTest.multiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Uebung07" />
+    <configuration name="StringUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="aufgabe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberTest" />
-      <option name="METHOD_NAME" value="multiply" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberTest.subtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Uebung07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberTest" />
-      <option name="METHOD_NAME" value="subtract" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Uebung07" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringOperationsTest" />
+      <option name="PACKAGE_NAME" value="aufgabe1" />
+      <option name="MAIN_CLASS_NAME" value="aufgabe1.StringUtilsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JUnit.NumberTest.subtract" />
-      <item itemvalue="JUnit.NumberTest.multiply" />
-      <item itemvalue="JUnit.NumberTest.divide" />
-      <item itemvalue="JUnit.StringOperationsTest" />
-      <item itemvalue="JUnit.NumberTest" />
-    </list>
+    <configuration name="StringUtilsTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgabe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aufgabe1" />
+      <option name="MAIN_CLASS_NAME" value="aufgabe1.StringUtilsTest" />
+      <option name="METHOD_NAME" value="isPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.replace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aufgabe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aufgabe1" />
+      <option name="MAIN_CLASS_NAME" value="aufgabe1.StringUtilsTest" />
+      <option name="METHOD_NAME" value="replace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberTest" />
-        <item itemvalue="JUnit.StringOperationsTest" />
-        <item itemvalue="JUnit.NumberTest.divide" />
-        <item itemvalue="JUnit.NumberTest.multiply" />
-        <item itemvalue="JUnit.NumberTest.subtract" />
+        <item itemvalue="JUnit.RomanNumberTest" />
+        <item itemvalue="JUnit.StringUtilsTest.isPalindrome" />
+        <item itemvalue="JUnit.StringUtilsTest.replace" />
+        <item itemvalue="JUnit.StringUtilsTest" />
+        <item itemvalue="JUnit.StringOpsTest.isSorted" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d781d4c-fc4e-4e00-af56-88703e639ce5" name="Default Changelist" comment="" />
-      <created>1575824872351</created>
+      <changelist id="da7ce598-a1b8-4bee-9e31-fb31f613bf23" name="Default Changelist" comment="" />
+      <created>1575899968844</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575824872351</updated>
+      <updated>1575899968844</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="535" y="463" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1575886420839">
+    <state width="1234" height="398" key="GridCell.Tab.0.bottom" timestamp="1575902376129">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="535" y="463" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575886420839" />
-    <state x="535" y="471" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575834720170">
+    <state width="1234" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1575902376129" />
+    <state width="1234" height="398" key="GridCell.Tab.0.center" timestamp="1575902376128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="535" y="471" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575834720170" />
-    <state width="1234" height="400" key="GridCell.Tab.0.bottom" timestamp="1575887931046">
+    <state width="1234" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1575902376128" />
+    <state width="1234" height="398" key="GridCell.Tab.0.left" timestamp="1575902376128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1575887931046" />
-    <state width="1234" height="400" key="GridCell.Tab.0.center" timestamp="1575887931046">
+    <state width="1234" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1575902376128" />
+    <state width="1234" height="398" key="GridCell.Tab.0.right" timestamp="1575902376129">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1575887931046" />
-    <state width="1234" height="400" key="GridCell.Tab.0.left" timestamp="1575887931046">
+    <state width="1234" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1575902376129" />
+    <state x="148" y="342" key="SettingsEditor" timestamp="1575900293956">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1575887931046" />
-    <state width="1234" height="400" key="GridCell.Tab.0.right" timestamp="1575887931046">
+    <state x="148" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1575900293956" />
+    <state x="1624" y="700" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575901975859">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1575887931046" />
-    <state x="510" y="596" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575833755184">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="510" y="596" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400@0.0.2560.1400" timestamp="1575833755184" />
-    <state x="465" y="362" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575827825137">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="465" y="362" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1575827825137" />
-    <state x="576" y="406" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575886430865">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="576" y="406" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575886430865" />
-    <state x="188" y="323" key="new project wizard" timestamp="1575826998885">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="188" y="323" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1575826998885" />
+    <state x="1624" y="700" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400@0.0.2560.1400" timestamp="1575901975859" />
   </component>
 </project>
